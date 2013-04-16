@@ -149,5 +149,6 @@ political weight to the HTML5 process to counterbalance this.
     [↩](#ref-cern-pd)
 
 
-<!--https://pad.fsfe.org/p/nRrXNbLuOb-->
-<!--https://github.com/hugoroy/blog/blob/master/a-small-lesson-about-patent-fud.md-->
+<!--https://pad.fsfe.org/p/nRrXNbLuOb -->
+<!--https://github.com/hugoroy/blog/blob/master/a-small-lesson-about-patent-fud.md -->
+<!--http://blogs.fsfe.org/hugo/?p=523 -->
