@@ -127,15 +127,15 @@ communication is restricted by DRM.
 
 Of course, people who are aware enough of these issues will still
 be able to publish using Free Software with webM and Theora, and
-the next ones. But what about everything else? Do we want to
-accept the Web as a fragmented place. No, we want to keep the Web
+the next ones. But what about everyone else? Do we want to
+accept the Web as a fragmented place? No, we want to keep the Web
 as it is, universal.
 
 IMHO, the only reason why things aren't so bad is thanks to
 Mozilla. By building Firefox, maintaining an independent browser
 engine when everybody's going WebKit, and getting involved in the
 whole HTML5 spec process, they've managed to hold back these
-attacks. But they haven't succeed entirely. How long before
+attacks. But they haven't succeeded entirely. How long before
 Mozilla suffers from these attacks and cannot be as competitive as
 other web browsers? 
 
@@ -147,3 +147,6 @@ political weight to the HTML5 process to counterbalance this.
 1.  Actually, TBL did have to ask someone's permission: his
     employer, CERN. But it's totally unrelated ;-) [↩](#ref-cern-pad)
 
+
+<!--https://pad.fsfe.org/p/nRrXNbLuOb-->
+<!--https://github.com/hugoroy/blog/blob/master/a-small-lesson-about-patent-fud.md-->
