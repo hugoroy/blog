@@ -65,7 +65,7 @@ haven't done yet, please sign now to stop Digital Restrictions
 Management (DRM) on the Web:
 [http://www.defectivebydesign.org/no-drm-in-html5](defectivebydesign.org/no-drm-in-html5)).
 
-Make no mistake. These are concordant, and very important changes.
+Make no mistake. These are concordant, and very important attacks.
 They will deeply change the Web if they succeed. Microsoft, Apple,
 Netflix and others want to control who can publish videos (though
 patents) and who can watch videos (through DRM). 
@@ -110,6 +110,30 @@ technological alternatives are violating patents.
 FUD](http://www.osnews.com/story/23058/Theora_More_of_a_Patent_Threat_than_H264_Wait_What_)
 
 
+I think it's time to realise that building web technologies is a
+process with political implications. They're trying to change the
+web from a place where you're free to express yourself without
+having to ask anybody's permission or having to agree to a
+restricted-patent-license, into something where freedom of
+expression is restricted by patents and where freedom of
+communication is restricted by DRM.
+
+Of course, people who are aware enough of these issues will still
+be able to publish using Free Software with webM and Theora, and
+the next ones. But what about everything else? Do we want to
+accept the Web as a fragmented place. No, we want to keep the Web
+as it is, universal.
+
+IMHO, the only reason why things aren't so bad is thanks to
+Mozilla. By building Firefox, maintaining an independant browser
+engine when everybody's going WebKit, and getting involved in the
+whole HTML5 spec process, they've managed to hold back these
+attacks. But they haven't succeed entirely. How long before
+Mozilla suffers from these attacks and cannot be as competitive as
+other web browsers? 
+
+We all need each other here. And I think it's time to bring some
+political weight to the HTML5 process to counterbalance this.
 
 * * *
 
