@@ -145,7 +145,8 @@ political weight to the HTML5 process to counterbalance this.
 * * *
 
 1.  Actually, TBL did have to ask someone's permission: his
-    employer, CERN. But it's totally unrelated ;-) [↩](#ref-cern-pad)
+    employer, CERN. But it's totally unrelated ;-)
+    [↩](#ref-cern-pd)
 
 
 <!--https://pad.fsfe.org/p/nRrXNbLuOb-->
