@@ -83,8 +83,8 @@ Management (DRM) on the Web:
 
 Make no mistake. These are concordant, and very important attacks.
 They will deeply change the Web if they succeed. Microsoft, Apple,
-Netflix and others want to control who can publish videos (though
-patents) and who can watch videos (through DRM). 
+Netflix and others want to control how one can make videos
+(through patents) and who can watch videos (through DRM). 
 
 The first part (patents) seems lost. We have to fight for the
 second part.
@@ -133,9 +133,10 @@ process with political implications. They're trying to change the
 web from a place where you're free to express yourself without
 having to ask anybody's permission or having to agree to a
 restricted-patent-license, into something where you cannot express
-freely without paying for patents and where DRM prevent you from
-doing legitimate things (like saving a private archive of online
-content).
+freely without using proprietary technology and where DRM prevents
+you from doing legitimate things (like saving a private copy of
+online content, or watching a video using only Free Software, the
+only way to ensure your privacy).
 
 Of course, people who are aware enough of these issues will still
 be able to publish using Free Software with webM and Theora, and
