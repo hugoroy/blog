@@ -110,7 +110,7 @@ technological alternatives are violating patents.
     Jobs' answer to my [open
     letter](http://blogs.fsfe.org/hugo/2010/04/open-letter-to-steve-jobs/
     "An open letter to Steve Jobs - and a reply"). I should have
-    handled this more carefully and contact other organsations
+    handled this more carefully and contacted other organsations
     like Xiph.Org… This could have been a nice action from FSFE.)
 
 4. Buy yourself time, [continue spreading
