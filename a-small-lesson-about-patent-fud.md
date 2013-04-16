@@ -28,6 +28,13 @@ happy](http://xiphmont.livejournal.com/59893.html) about this
 announcement. Indeed, it shows that MPEG-LA has lost. They did not
 have anything serious to bring VP8 down. 
 
+ > Oh. Oh my. After a decade of the MPEG LA saying they were
+ > coming to destroy the FOSS codec movement, with none other than
+ > the late Steve Jobs himself chiming in, today the Licensing
+ > Authority announced what we already knew. 
+ >
+ > They got nothing.
+
 But what should remain from this? I think there are some lessons
 to learn here for Free Software. Sure, MPEG-LA has lost. But who
 won? Not us, and surely not the Web. 
