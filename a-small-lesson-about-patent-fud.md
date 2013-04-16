@@ -77,7 +77,7 @@ They will deeply change the Web if they succeed. Microsoft, Apple,
 Netflix and others want to control who can publish videos (though
 patents) and who can watch videos (through DRM). 
 
-The first part (patents) seem lost. We have to fight for the
+The first part (patents) seems lost. We have to fight for the
 second part.
 
 But here I want to focus a little bit on how they achieved to
@@ -132,7 +132,7 @@ accept the Web as a fragmented place. No, we want to keep the Web
 as it is, universal.
 
 IMHO, the only reason why things aren't so bad is thanks to
-Mozilla. By building Firefox, maintaining an independant browser
+Mozilla. By building Firefox, maintaining an independent browser
 engine when everybody's going WebKit, and getting involved in the
 whole HTML5 spec process, they've managed to hold back these
 attacks. But they haven't succeed entirely. How long before
