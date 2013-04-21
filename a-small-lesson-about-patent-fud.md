@@ -78,8 +78,8 @@ come](http://blogs.fsfe.org/hugo/2012/02/%E2%80%9Cunethical%E2%80%9D-html5-conte
 "An unethical proposal"). We saw it coming, about a year ago. But
 nothing was done. It is only now that I see a reaction (BTW if you
 haven't done yet, please sign now to stop Digital Restrictions
-Management (DRM) on the Web:
-[http://www.defectivebydesign.org/no-drm-in-html5](defectivebydesign.org/no-drm-in-html5)).
+Management (DRM) on the Web: 
+[defectivebydesign.org/no-drm-in-html5](http://www.defectivebydesign.org/no-drm-in-html5)).
 
 Make no mistake. These are concordant, and very important attacks.
 They will deeply change the Web if they succeed. Microsoft, Apple,
@@ -89,7 +89,10 @@ Netflix and others want to control how one can make videos
 The first part (patents) seems lost. We have to fight for the
 second part.
 
-## What we need: to weigh in the political process of shaping HTML5 and to fight FUD
+## What we need: to weigh in the political process of shaping
+HTML5 and to fight
+[FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt
+"Fear, Uncertainty and doubt")
 
 Here I want to focus a little bit on how they achieved to control
 videos through patents and how this is related to what we're
@@ -112,7 +115,7 @@ technological alternatives are violating patents.
 
     (Of course, hope that nobody sees how hypocrite you are,
     because the patent risks come from your own patents and from
-    organisations like MPEG-LA of which you are a part of)
+    organisations like MPEG-LA, which you are a part of)
 
 3. Make vague threats of lawsuits and show your muscles. 
 
