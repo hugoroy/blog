@@ -89,10 +89,7 @@ Netflix and others want to control how one can make videos
 The first part (patents) seems lost. We have to fight for the
 second part.
 
-## What we need: to weigh in the political process of shaping
-HTML5 and to fight
-[FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt
-"Fear, Uncertainty and doubt")
+## What we need: to weigh in the political process of shaping HTML5 and to fight [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt "Fear, Uncertainty and doubt")
 
 Here I want to focus a little bit on how they achieved to control
 videos through patents and how this is related to what we're
