@@ -108,7 +108,7 @@ These are some of the steps:
 
 
 2. Spread FUD everywhere that Free Software implementations and
-technological alternatives are violating patents. 
+technological alternatives are violating patents.[²](#fn)
 
     (Of course, hope that nobody sees how hypocrite you are,
     because the patent risks come from your own patents and from
@@ -164,6 +164,11 @@ political weight to the HTML5 process to counterbalance this.
 1.  Actually, TBL did have to ask someone's permission: his
     employer, CERN. But it's totally unrelated ;-)
     [↩](#ref-cern-pd)
+
+2.  Apple seems [particularly good at this](http://my.opera.com/haavard/blog/2011/12/09/apple-w3c 
+    "Apple using patents to undermine open standards again")
+    [↩](#ref-apple-fud)
+
 
 * * *
 
