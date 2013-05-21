@@ -57,7 +57,7 @@ those who have decided to [pay allegiance to
 Google](https://www.schneier.com/blog/archives/2012/12/feudal_sec.html)
 will be able to get their chat contact list out of Google Talk, with a
 way to import them into [XMPP providers](http://xmpp.net) which are
-federated.
+federated.  
 
 * * *
 
