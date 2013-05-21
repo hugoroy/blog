@@ -8,7 +8,7 @@ Will Google keep its promise and give xmpp users a way out?
 As you may have seen, Google announced at their Google I/O conference
 that they were discontinuing their XMPP service, Google Talk. It's very
 unfortunate, because XMPP is the most deployed open standard for instant
-messenging. It gave Google users the ability to communicate instantly
+messaging. It gave Google users the ability to communicate instantly
 with anyone using an XMPP federated service (like [FSFE's fellows XMPP
 server](https://wiki.fsfe.org/XMPP)). [Even
 Microsoft](http://windowspbx.blogspot.fr/2013/05/hangouts-wont-hangout-with-other.html)
@@ -64,8 +64,8 @@ federated.
 <a id="fn-google-talk-discontinued"> </a>
 
 1.  it remains unclear whether XMPP support is entirely gone for
-    client-to-serveur according to
-    [Ars](http://arstechnica.com/information-technology/2013/05/hands-on-with-hangouts-googles-new-text-and-video-chat-architecture/)[↩](#xmpp-support)
+    xmpp-client-to-server according to
+    [Ars](http://arstechnica.com/information-technology/2013/05/hands-on-with-hangouts-googles-new-text-and-video-chat-architecture/)[↩](#ref-xmpp-support)
 
 * * *
 
