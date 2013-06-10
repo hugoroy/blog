@@ -23,7 +23,7 @@ each Tuesday at 4 pm UK time.
 
 ## “I have read and agree to the terms”: Why is that what we call the biggest lie on the Web?
 
-[Video: Eddie Izzard on how iTunes terms change all the time](http://www.youtube.com/watch?v=lbvwZ4LWeEc&t=0m53s)
+See at 0m53s. [Video: Eddie Izzard on how iTunes terms change all the time](http://www.youtube.com/watch?v=lbvwZ4LWeEc&t=0m53s)
 
 This is a sensitive topic, and it boils down to consent. Consent
 is a pretty common condition to form binding agreements around the
@@ -90,43 +90,6 @@ pay attention to for ToS;DR. Anyway, I'll have to update
 
 ![Screenshot of iTunes ToS](tosdr-in-action-i-have-read-and-agree/itunes-agree.jpg "Do you agree?")
 
-* * *
-
-So, right now, it's fair to assume that if you clicked "I agree" that
-means you consent presumably to what's written in the terms; even
-if that involves [selling your soul][gamestation].
-
-[gamestation]: http://www.huffingtonpost.com/2010/04/17/gamestation-grabs-souls-o_n_541549.html "It happened on April 1"
-
-What's problematic is that although terms of service are kinds of
-non-negotiated contracts, they're still a two-way relationship.
-There are meaningful things written in there, about your
-rights and obligations as well, to which you presumably consent.
-
-Every once in a while, when a service brings major changes to
-their terms, we see some media coverage and sometimes outrage at
-what services can do or aim to do with our personal data or with
-our creative content. So, we can assume that *people do care*
-about these issues; yet, the I-agree-to-the-terms-circus goes on
-and on. 
-
-My assumption then, is that when we discuss privacy and
-surveillance in our society today, especially in the context of
-legal regulation or legal reform, we ought to be careful before
-making statements about what people supposedly consent to. 
-
-Just because Facebook is popular, it doesn't mean Facebook users are
-actually aware and agree to their practices. Thus, assuming that
-people are ready to “trade-off” some of their freedom from
-surveillance in exchange for liking and commenting on pictures, is
-a very big assumption to make about how people value their privacy
-and their rights. 
-
-Quite to the contrary, I would say we have very little idea in
-general about what's happening to our rights online and how we're
-[being tracked][]. Hopefully, ToS;DR can fix some of that.
-
-[being tracked]: http://blogs.fsfe.org/hugo/2013/05/whos-tracking-me-online-the-most-google-or-facebook/
 
 ## But are long ToS legal, is it enforceable?
 
@@ -216,3 +179,40 @@ terms are actually illegal:
  - [Apple’s Customer Data-Privacy Rules Struck Down by German
    Court](http://www.bloomberg.com/news/2013-05-07/apple-s-customer-data-privacy-rules-struck-down-by-german-court.html)
 
+* * *
+
+So, right now, it's fair to assume that if you clicked "I agree" that
+means you consent presumably to what's written in the terms; even
+if that involves [selling your soul][gamestation].
+
+[gamestation]: http://www.huffingtonpost.com/2010/04/17/gamestation-grabs-souls-o_n_541549.html "It happened on April 1"
+
+What's problematic is that although terms of service are kinds of
+non-negotiated contracts, they're still a two-way relationship.
+There are meaningful things written in there, about your
+rights and obligations as well, to which you presumably consent.
+
+Every once in a while, when a service brings major changes to
+their terms, we see some media coverage and sometimes outrage at
+what services can do or aim to do with our personal data or with
+our creative content. So, we can assume that *people do care*
+about these issues; yet, the I-agree-to-the-terms-circus goes on
+and on. 
+
+My assumption then, is that when we discuss privacy and
+surveillance in our society today, especially in the context of
+legal regulation or legal reform, we ought to be careful before
+making statements about what people supposedly consent to. 
+
+Just because Facebook is popular, it doesn't mean Facebook users are
+actually aware and agree to their practices. Thus, assuming that
+people are ready to “trade-off” some of their freedom from
+surveillance in exchange for liking and commenting on pictures, is
+a very big assumption to make about how people value their privacy
+and their rights. 
+
+Quite to the contrary, I would say we have very little idea in
+general about what's happening to our rights online and how we're
+[being tracked][]. Hopefully, ToS;DR can fix some of that.
+
+[being tracked]: http://blogs.fsfe.org/hugo/2013/05/whos-tracking-me-online-the-most-google-or-facebook/
