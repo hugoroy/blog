@@ -5,7 +5,7 @@
 # ToS;DR in Action
 
 During the month of June, the ToS;DR team is collaborating with the
-BBC on their [“Law in action” programme][bbclaw] for a 4-show
+BBC on their [“Law in action” program][bbclaw] for a 4-show
 series dedicated to the [topics][] of terms of service and privacy
 policies.
 
@@ -13,15 +13,15 @@ policies.
 [topics]: http://tosdr.org/topics.html "Topics covered by ToS;DR"
 
 On June 4, [Joshua Rozenberg][], Julia Hörnle from Queen Mary
-University, Jimm and I talked about the probably most unavoidable
-topic when it comes to terms of service. You can already listen to
-it from the [podcast][]. Stay tuned for the next topics, on each
-Tuesday at 4 pm UK time.
+University, Jimm, and I talked about what is the probably most unavoidable
+topic when it comes to terms of service. You can already listen 
+to the [podcast][] on the BBC site. Stay tuned for the next topics, on 
+each Tuesday at 4 pm UK time.
 
 [Joshua Rozenberg]: http://www.rozenberg.net/ 
 [podcast]: http://downloads.bbc.co.uk/podcasts/radio4/law/rss.xml
 
-## “I have read and agree to the terms”: Why is that what we call the biggest lie on the Web
+## “I have read and agree to the terms”: Why is that what we call the biggest lie on the Web?
 
 [Eddie Izzard on how iTunes terms change all the time](http://www.youtube.com/watch?v=lbvwZ4LWeEc&t=0m53s)
 
@@ -30,12 +30,12 @@ is a pretty common condition to form binding agreements around the
 world, but what is it exactly?  Clicking “I agree to the terms” or
 checking that little box: what are the implications?
 
-First, there's absolutely no denying than in its current state,
+First, there's absolutely no denying that in its current state,
 the terms of service acceptance mechanism is deeply broken, for
 two obvious reasons:
 
  * the terms of service and privacy policies are *too long* and
-   often do not provide shorter versions, and *no plain-English*
+   often do not provide shorter versions, nor do they provide *plain-English*
    versions either;
  * the average user signs up to lots and lots of online services,
    sometimes agreeing to multiple documents or services at once
@@ -43,7 +43,7 @@ two obvious reasons:
 
 [third parties]: http://tosdr.org/topics.html#third "ToS;DR about third parties in terms"
 
-In 2008, [Lorrie Cranor] from Carnegie Mellon estimated that it
+In 2008, [Lorrie Cranor][] from Carnegie Mellon estimated that it
 would take 244 hours every year for each individual to read the
 privacy policies they agree to online. ([The Atantic: 76
 work days to read all the
@@ -65,14 +65,14 @@ Second, these two problems are multiplied by the facts that:
 Since 2007, Facebook has brought major changes to their
 longer-than-the-US-Constitution-terms-of-service about [every
 year][eff-timeline]. Among the services that do not make
-it an obligation to notify users of changes:  Micrososft, Yahoo!,
+it an obligation to notify users of changes:  Microsoft, Yahoo!,
 Skype, Amazon, YouTube. 
 
 [eff-timeline]: https://www.eff.org/deeplinks/2010/04/facebook-timeline "EFF: Facebook terms, a timeline"
 
-(Ironically, it seems that the Yahoo!  privacy policy has been
+(Ironically, it seems that the Yahoo! privacy policy has been
 changed to now make it an obligation to notify users of
-modifications; however I do not remember having received
+modifications; however, I do not remember having received
 notification of this change, although this is the kind of email I
 pay attention to for ToS;DR. Anyway, I'll have to update
 [#yahoo](http://tosdr.org/#yahoo)).
@@ -95,32 +95,32 @@ if that involves [selling your soul][gamestation].
 [gamestation]: http://www.huffingtonpost.com/2010/04/17/gamestation-grabs-souls-o_n_541549.html "It happened on April 1"
 
 What's problematic is that although terms of service are kinds of
-non-negotiated contracts, they're still a two-way relationship,
-and there are meaningful things written in there, about your
+non-negotiated contracts, they're still a two-way relationship.
+There are meaningful things written in there, about your
 rights and obligations as well, to which you presumably consent.
 
-Every once in a while, when a service bring major changes to
-their terms, we see some media coverage and sometime outrage at
+Every once in a while, when a service brings major changes to
+their terms, we see some media coverage and sometimes outrage at
 what services can do or aim to do with our personal data or with
 our creative content. So, we can assume that *people do care*
-about these issues; yet the I-agree-to-the-terms-circus goes on
+about these issues; yet, the I-agree-to-the-terms-circus goes on
 and on. 
 
 My assumption then, is that when we discuss privacy and
 surveillance in our society today, especially in the context of
-legal regulation or legal reform; we ought to be careful before
+legal regulation or legal reform, we ought to be careful before
 making statements about what people supposedly consent to. 
 
-Just because Facebook is popular, doesn't mean Facebook users are
+Just because Facebook is popular, it doesn't mean Facebook users are
 actually aware and agree to their practices. Thus, assuming that
 people are ready to “trade-off” some of their freedom from
 surveillance in exchange for liking and commenting on pictures, is
 a very big assumption to make about how people value their privacy
-and  their rights. 
+and their rights. 
 
 Quite to the contrary, I would say we have very little idea in
 general about what's happening to our rights online and how we're
-[being tracked]. Hopefully, ToS;DR can fix some of that.
+[being tracked][]. Hopefully, ToS;DR can fix some of that.
 
 [being tracked]: http://blogs.fsfe.org/hugo/2013/05/whos-tracking-me-online-the-most-google-or-facebook/
 
@@ -133,28 +133,28 @@ Before answering these questions, we need to stop for a minute.
    about whether changing terms without notifying users is
    acceptable or not.
  * Just because you live in a society that is usually more
-   protective about your rights does not mean you're safe, because
+   protective about your rights, it does not mean you're safe, because
    a lot of the terms of service have [choice of law
    clauses][choice-law]
  * Even when such practices would be deemed illegal, it does not
    mean that they are not doing any harm. Quite on the contrary,
-   if you've got to go see a judge, i.e. taking the burden of
-   litigation on you in time and/or money, it probably means that
-   harm's been done already. Good contracts  do not provoke
-   litigation, they ease private relationships.
- * And even when such practices have been considered illegal,
-   sometimes even taking into account the fines, it would still be
-   profitable.
+   if you've got to go see a judge (i.e., taking the burden of
+   litigation on you in time and/or money) it probably means that
+   harm's been done already. Good contracts do not provoke
+   litigation; they ease private relationships.
+ * And sometimes, even when companies have been fined for 
+   practices that have been considered illegal,
+   they have still succeeded in profiting from their actions.
 
 [choice-law]: http://tosdr.org/topics.html#jurisdiction-law
 
-Julia Hörnle put it nicely on the show: “they're getting away
+Julia Hörnle put it nicely on the show: “They're getting away
 with it.” 
 
-Now about terms that can change without notification to you, I
+Now, about terms that can change without notification to you, I
 suppose they are valid in the US, but they're usually not valid in
 Europe (which does not prevent companies providing services in
-Europe to have such clauses in their terms and not to notify
+Europe to have such clauses in their terms and to continue not to notify
 users…).
 
 For those interested, there are interesting cases in the
@@ -165,8 +165,8 @@ UK:
 
 In France, consent is part of the four conditions necessary to be
 forming a valid contract (article 1108 of the Code Civil).
-The question is then to know if the terms of service, in websites, can
-be considered as "reasonable notice", and thus be enforceable to the
+The question is then if the terms of service on websites can
+be considered "reasonable notice", and thus be enforceable to the
 user that has agreed to them. A [recent French supreme court
 decision](http://www.legalis.net/spip.php?page=jurisprudence-decision&id_article=3534)
 implies that the acceptance of ToS requires notified consent; merely
@@ -174,13 +174,13 @@ hosting the ToS online does not create a contractual obligation.
 
 There was also an [interesting case in Canada][deceased] in which
 the heirs of a deceased person wanted access and ownership of
-their brother's email at Yahoo. One of the question was around:
+their brother's email account at Yahoo. One of the questions was around:
 were the changes to the terms reasonably communicated to the
 user?
 
 [deceased]: http://www.mondaq.com/canada/x/241354/Terms+of+Service+and+Deceased+Users+Account
 
-In the European Commission's  new data protection regulation
+In the European Commission's new data protection regulation
 currently under review by the European Parliament and the European
 Council, there's a proposal that the burden of proof of consent be
 on the service provider.
@@ -196,9 +196,9 @@ processing. On the one hand, data protection authorities want to
 promote interpretations that are in favour or users' privacy. On
 the other hand, I don't see much happening on how services deal
 with their users' consent. Let's hope the next regulation will
-clarify that, and hopefully not result in less protection or in
+clarify that, and hopefully, not result in less protection or in
 meaningless consent (see for instance the intense lobbying over
-the proposed requirement that consent  be expressed consent).
+the proposed requirement that consent be expressed consent).
 
 Oh, I forgot to answer the question. No, some of these
 terms are actually illegal:
