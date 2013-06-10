@@ -5,7 +5,7 @@
 # ToS;DR in Action
 
 During the month of June, the ToS;DR team is collaborating with the
-BBC on their [“Law in action” program][bbclaw] for a 4-show
+BBC on their [“Law in action” programme][bbclaw] for a 4-show
 series dedicated to the [topics][] of terms of service and privacy
 policies.
 
@@ -23,7 +23,7 @@ each Tuesday at 4 pm UK time.
 
 ## “I have read and agree to the terms”: Why is that what we call the biggest lie on the Web?
 
-[Eddie Izzard on how iTunes terms change all the time](http://www.youtube.com/watch?v=lbvwZ4LWeEc&t=0m53s)
+[Video: Eddie Izzard on how iTunes terms change all the time](http://www.youtube.com/watch?v=lbvwZ4LWeEc&t=0m53s)
 
 This is a sensitive topic, and it boils down to consent. Consent
 is a pretty common condition to form binding agreements around the
@@ -48,6 +48,8 @@ would take 244 hours every year for each individual to read the
 privacy policies they agree to online. ([The Atantic: 76
 work days to read all the
 terms](http://www.theatlantic.com/technology/archive/2012/03/reading-the-privacy-policies-you-encounter-in-a-year-would-take-76-work-days/253851/)).
+
+![ToS lenghts](/tosdr-in-action-i-have-read-and-agree/books.jpg "UK consumer org “Which?” comparing lenghts")
 
 [Lorrie Cranor]: http://lorrie.cranor.org/#publications
 
@@ -85,6 +87,8 @@ pay attention to for ToS;DR. Anyway, I'll have to update
 > conditions will be effective immediately and incorporated into
 > this Agreement. Your continued use of the iTunes Service will be
 > deemed acceptance thereof.
+
+![Screenshot of iTunes ToS](/tosdr-in-action-i-have-read-and-agree/itunes-agree.jpg "Do you agree?")
 
 * * *
 
@@ -199,6 +203,8 @@ with their users' consent. Let's hope the next regulation will
 clarify that, and hopefully, not result in less protection or in
 meaningless consent (see for instance the intense lobbying over
 the proposed requirement that consent be expressed consent).
+
+![EU data protectionlogo](/tosdr-in-action-i-have-read-and-agree/eudatap.jpg "Data protection logo")
 
 Oh, I forgot to answer the question. No, some of these
 terms are actually illegal:
