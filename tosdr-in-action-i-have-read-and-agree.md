@@ -49,7 +49,7 @@ privacy policies they agree to online. ([The Atantic: 76
 work days to read all the
 terms](http://www.theatlantic.com/technology/archive/2012/03/reading-the-privacy-policies-you-encounter-in-a-year-would-take-76-work-days/253851/)).
 
-![ToS lenghts](tosdr-in-action-i-have-read-and-agree/books.jpg "UK consumer org “Which?” comparing lenghts")
+![From http://conversation.which.co.uk/technology/length-of-website-terms-and-conditions/](tosdr-in-action-i-have-read-and-agree/books.jpg "UK consumer org “Which?” comparing lenghts")
 
 [Lorrie Cranor]: http://lorrie.cranor.org/#publications
 
@@ -204,7 +204,7 @@ clarify that, and hopefully, not result in less protection or in
 meaningless consent (see for instance the intense lobbying over
 the proposed requirement that consent be expressed consent).
 
-![EU data protectionlogo](tosdr-in-action-i-have-read-and-agree/eudatap.jpg "Data protection logo")
+![](tosdr-in-action-i-have-read-and-agree/eudatap.jpg "Data protection logo")
 
 Oh, I forgot to answer the question. No, some of these
 terms are actually illegal:
