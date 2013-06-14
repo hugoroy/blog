@@ -4,18 +4,18 @@
 
 # “What is yours stays yours”: Oh, really?
 
-[This post is part of a series in collaboration with the BBC Radio 4 “Law in Action,” where we try to debunked some of the myths related to terms of service and privacy policies. 
+[This post is part of a series in collaboration with the BBC Radio 4 “Law in Action,” where we try to debunk some of the myths related to terms of service and privacy policies. 
 [Read episode 1][ep1]]
 
 [ep1]: http://tosdr.org/blog/tosdr-in-action-i-have-read-and-agree.html
 
 This week, we're focusing on another big matter when it comes to
-terms of service. This one takes many forms and raises
-questions (“can they sell my content?”), that some Terms try to
+terms of service. This one takes many forms and raises many 
+questions (e.g., “Can they sell my content?”) that some Terms try to
 deal with by writing things like: “What is yours stays yours” or
-“You retain your rights to your photos”, etc.
+“You retain your rights to your photos”, and etc.
 
-However, most of these statements are meaningless. Because
+However, most of these statements are meaningless because
 copyright law doesn't work that way; there are many things you can
 do with a copyright which are not “selling” in a legal sense.
 
@@ -25,16 +25,16 @@ The basic principle is that once a person has created or invested
 in a work, usually with a minimum of creativity, this person is
 automatically considered the “author” or the copyright holder of
 that work. (There are differences around the world, but we can say
-it's a basic principle under the Berne convention that treats 
+it's a basic principle under the Berne convention that governs 
 copyright and author's rights).
 
 The aim of such laws has various justifications: allowing
 to reward creators for their work and incentivise their production;
 organising exclusive rights to enable return-on-investments;
-enhancing creativity to bring benefits to society at large; etc. 
+enhancing creativity to bring benefits to society at large; and etc. 
 
-If nowadays, copyright has been discussed at great lengths in the
-media and in politics as a burning issue as for non-authorised
+If, nowadays, copyright has been discussed at great lengths in politics and the
+media as a burning issue concerning non-authorised
 distribution of music and films on the Internet, another
 significant side of copyright has been mainly overlooked.
 
@@ -42,49 +42,50 @@ significant side of copyright has been mainly overlooked.
 
 Today, incredibly vast amounts of copyrighted works are published
 by users on the Web (in the so-called Web 2.0 era of “User
-Generated Content”), through publication services such as Twitter,
-Facebook, YouTube, Instagram, etc.  However, very
+Generated Content”) through publication services such as Twitter,
+Facebook, YouTube, Instagram, and etc. However, very
 little has been said about what happens to users' copyrights. The
 sad truth is, a lot of services are claiming over-broad rights on
-users' content; content which creation they had no involvement
-with whatsoever. 
+users' content; content which creation they had no involvement						todo
+with whatsoever. content with which they had no involvement whatsoever
+in creating.
 
- * True, with these services “you retain your rights” to your
+ * True, with these services, “you retain your rights” to your
    content. They do not ask for a transfer of copyright ownership,
-   but they mainly ask you to grant them  broad, sometimes
-   almost-unlimited licenses to your content.
- * True, these services do not “sell” your content. What they do is
-  they *transfer* the license you grant them, or the grant
+   but they mainly ask you to grant them broad, sometimes
+   almost-unlimited, licenses to your content.
+ * True, these services do not “sell” your content. What they do 
+   is *transfer* the license you grant them, or they grant
   *sublicenses* themselves to third-parties.
  * True, users have “agreed” to that. But we know that the current
-   agreement to terms of service is [meaningless][ep1] and that
-   moreover for many services (Twitter, Facebook, Instagram,
-   Twitpic, etc.) the current copyright license was made in
+   agreement to terms of service is [meaningless][ep1], and moreover,
+   for many services (Twitter, Facebook, Instagram,
+   Twitpic, and etc.), the current copyright license was made in
    changes to the terms.
 
 [Twitter](http://tosdr.org/#twitter) can change the terms at any
-time when they see fit. They give notification, in their sole
+time when they see fit; they can choose to give notification, in their sole
 discretion, via an @Twitter update or via email. In September 2009,
 Twitter considerably changed the terms for the copyright license
-and only gave a very short notice, only a few hours before the
-changes applied. Moreover, if you actually try to go read that
-email, and then the blog post it links to, you will notice that
+and only gave a very short notice a few hours before the
+changes applied. Furthermore, if you actually try to go read that
+email and the blog post it links to, you will notice that
 Twitter omits to mention the biggest changes to their copyright
 license. [See our discussion:
 [on the mailing-list](https://groups.google.com/d/msg/tosdr/-B4iO-9xHvg/0yoWGoEISrEJ)]
 
-[Twitpic](http://tosdr.org/#twitpic)  has been able to exploit the
-rights users have granted them, most probably without knowing. For
+[Twitpic](http://tosdr.org/#twitpic) has been able to exploit the
+rights users have granted them, probably without most users knowing. For
 instance, when Twitpic realised they could make money off their
 users' pictures, they [changed the copyright
 license](http://www.bbc.co.uk/news/technology-13372982) to make a
 deal with media agency WENN.
 
 When [Instagram](http://tosdr.org/#instagram) was bought by Facebook, they only had a limited
-copyright license that was neither transferable, nor
+copyright license that was neither transferable nor
 sublicensable. At this stage, although Facebook had bought the
 company Instagram for $1 billion, Facebook could not really
-benefit from the rights over users' photos. Guess what, when
+benefit from the rights over users' photos. Guess what. When
 Instagram changed their terms in January this year, they aligned
 their copyright license to Facebook's (among [other issues](http://www.slate.com/blogs/future_tense/2012/12/19/instagram_privacy_everyone_s_ignoring_the_real_problems_with_its_terms_of.html)).
 
@@ -113,8 +114,8 @@ licenses](http://consumerist.com/2009/02/15/facebooks-new-terms-of-service-we-ca
 
 ## But, this is necessary for them, right?
 
-I have seen some arguments, stating that these copyright licenses
-are “boilerplate” (implying they're everywhere) and that they're
+I have seen some arguments stating that these copyright licenses
+are “boilerplate” (implying they're everywhere), and that they're
 really necessary for them to provide you with the service.
 
 But this is far from true. First, these copyright terms are far
@@ -126,7 +127,7 @@ copyright licenses that we have
 For instance, the copyright license you grant to
 [YouTube](http://tosdr.org/#youtube) bears no explicit limitation,
 whereas [Vimeo's](http://tosdr.org/#vimeo) copyright
-license is explicitly limited to 4 purposes. Moreover, the
+license is explicitly limited to 4 purposes. In addition, the
 copyright license you grant to Vimeo is neither transferable nor
 sublicensable, as opposed to YouTube.
 
@@ -135,7 +136,7 @@ that [Twitter][] requires with the license for
 [Identi.ca](http://tosdr.org/#identi-ca) or
 [SeenThis](http://tosdr.org/#seenthis). In case this isn't
 significant enough, you can also compare Twitter's current
-copyright license, with the copyright license they had [before
+copyright license with the copyright license they had [before
 2009](https://twitter.com/tos/previous).
 
 If it were really necessary for these services to get such broad
