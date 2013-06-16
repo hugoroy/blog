@@ -9,15 +9,14 @@
 
 [ep1]: http://tosdr.org/blog/tosdr-in-action-i-have-read-and-agree.html
 
-This week, we're focusing on another big matter when it comes to
-terms of service. This one takes many forms and raises many 
-questions (e.g., “Can they sell my content?”) that some Terms try to
-deal with by writing things like: “What is yours stays yours” or
-“You retain your rights to your photos”, and etc.
+This week, we're focusing on another big topic related to
+terms of service: what's happening to content (e.g. pictures,
+videos) you upload to a service?
 
-However, most of these statements are meaningless because
-copyright law doesn't work that way; there are many things you can
-do with a copyright which are not “selling” in a legal sense.
+Services usually mention that they're not going to sell your
+content or that “what's yours stays yours.” Yet, you'd better be
+careful: there are still many things they could do…
+
 
 ## A (very) basic introduction to copyright and author's rights
 
@@ -25,18 +24,20 @@ The basic principle is that once a person has created or invested
 in a work, usually with a minimum of creativity, this person is
 automatically considered the “author” or the copyright holder of
 that work. (There are differences around the world, but we can say
-it's a basic principle under the Berne convention that governs 
-copyright and author's rights).
+it's a basic principle under the Berne convention that governs
+copyright and author's rights laws).
 
-The aim of such laws has various justifications: allowing
-to reward creators for their work and incentivise their production;
-organising exclusive rights to enable return-on-investments;
-enhancing creativity to bring benefits to society at large; and etc. 
+Such laws bear various justifications: allowing to reward creators
+for their work and incentivise their production; organising
+exclusive rights to enable return-on-investments; enhancing
+creativity to bring benefits to society at large.
 
-If, nowadays, copyright has been discussed at great lengths in politics and the
-media as a burning issue concerning non-authorised
-distribution of music and films on the Internet, another
-significant side of copyright has been mainly overlooked.
+If, nowadays, copyright has been discussed at great lengths in
+politics and the media as a burning issue concerning
+non-authorised distribution of music and films on the Internet,
+**another significant side** of copyright has been mainly
+overlooked: what's happening to **your** copyright, the rights on
+your photos, your videos, etc.
 
 ## How services exploit your copyright
 
@@ -46,17 +47,18 @@ Generated Content”) through publication services such as Twitter,
 Facebook, YouTube, Instagram, and etc. However, very
 little has been said about what happens to users' copyrights. The
 sad truth is, a lot of services are claiming over-broad rights on
-users' content; content which creation they had no involvement						todo
-with whatsoever. content with which they had no involvement whatsoever
-in creating.
+users' content -- while they have absolutely not contributed to
+its creation!
 
  * True, with these services, “you retain your rights” to your
    content. They do not ask for a transfer of copyright ownership,
-   but they mainly ask you to grant them broad, sometimes
-   almost-unlimited, licenses to your content.
+   but they mainly ask you to grant them **broad**, sometimes
+   **almost-unlimited**, licenses to your content.
  * True, these services do not “sell” your content. What they do 
    is *transfer* the license you grant them, or they grant
-  *sublicenses* themselves to third-parties.
+   *sublicenses* themselves to third-parties. That mean they can
+   give rights on your content to other businesses, without asking
+   you.
  * True, users have “agreed” to that. But we know that the current
    agreement to terms of service is [meaningless][ep1], and moreover,
    for many services (Twitter, Facebook, Instagram,
@@ -99,7 +101,11 @@ After January 19, 2013:
 
 > Rights
 > 
-> 1. Instagram does not claim ownership of any Content that you post on or through the Service. Instead, *you hereby grant to Instagram a non-exclusive, fully paid and royalty-free, transferable, sub-licensable, worldwide license to use the Content that you post on or through the Service,* subject to the Service's Privacy Policy, available here http://instagram.com/legal/privacy/, including but not limited to sections 3 ("Sharing of Your Information"), 4 ("How We Store Your Information"), and 5 ("Your Choices About Your Information"). You can choose who can view your Content and activities, including your photos, as described in the Privacy Policy.
+> 1. Instagram does not claim ownership of any Content that you
+> post on or through the Service. Instead, *you hereby grant to
+> Instagram a non-exclusive, fully paid and royalty-free,*
+> **transferable, sub-licensable,** *worldwide license to use the
+> Content that you post on or through the Service,* subject to the Service's Privacy Policy, available here http://instagram.com/legal/privacy/, including but not limited to sections 3 ("Sharing of Your Information"), 4 ("How We Store Your Information"), and 5 ("Your Choices About Your Information"). You can choose who can view your Content and activities, including your photos, as described in the Privacy Policy.
 
 Facebook's current terms:
 
@@ -116,11 +122,12 @@ licenses](http://consumerist.com/2009/02/15/facebooks-new-terms-of-service-we-ca
 
 I have seen some arguments stating that these copyright licenses
 are “boilerplate” (implying they're everywhere), and that they're
-really necessary for them to provide you with the service.
+really necessary for them to provide you with the features of the
+service.
 
-But this is far from true. First, these copyright terms are far
-from boilerplate. Indeed, even between similar services, there are
-huge differences. As you can see here, there is a wide vaeriety of
+But this is not true. First, these copyright terms are far
+from standard. Indeed, even between similar services, there are
+huge differences, as you can see here, there is a wide variety of
 copyright licenses that we have
 [mapped](http://tosdr.org/topics.html#copyright-scope).
 
@@ -132,7 +139,7 @@ copyright license you grant to Vimeo is neither transferable nor
 sublicensable, as opposed to YouTube.
 
 To take another example, you can compare the copyright license
-that [Twitter][] requires with the license for
+that [Twitter](http://tosdr.org/#twitter) requires with the license for
 [Identi.ca](http://tosdr.org/#identi-ca) or
 [SeenThis](http://tosdr.org/#seenthis). In case this isn't
 significant enough, you can also compare Twitter's current
@@ -141,9 +148,10 @@ copyright license with the copyright license they had [before
 
 If it were really necessary for these services to get such broad
 copyright licenses, I still see no clear reason why they would ask
-for the possibility to *transfer* or to *sublicense* them. On the
-other hand, if it is a matter of necessity, then services could
-just state it clearly in the copyright licenses themselves. For
+for the possibility to *transfer* or to *sublicense* them. 
+
+Besides, if it were a matter of necessity, then services could
+just state it clearly and expressly in the copyright licenses. For
 instance, [SoundCloud](http://tosdr.org/#soundcloud) asks for
 copyright license like this: 
 
@@ -155,4 +163,14 @@ copyright license like this:
 > SoundCloud on a **limited**, worldwide, non-exclusive,
 > royalty-free and fully paid basis. [Source](https://groups.google.com/d/topic/tosdr/_gI8wQ3PZ2M/discussion)
 
+Do not get fooled. Some businesses *do* get broad rights on your
+published content when you “accept” their terms of service. Your
+content is valuable, you should not blindly accept copyright
+licenses over them.
 
+Here at ToS;DR, we *systematically* check the copyright licenses
+carried in terms of service to find broad language. If you want to
+avoid giving away your rights, one simple first step can be to
+<a href="http://tosdr.org/downloads.html">download</a> our web
+browser extension and instantly check the information regarding
+copyright licenses of services you use.
