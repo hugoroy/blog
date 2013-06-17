@@ -213,3 +213,4 @@ information regarding copyright licenses of services you use.
 [Vimeo]: http://tosdr.org/#vimeo
 [Identi.ca]: http://tosdr.org/#identi-ca
 [SeenThis]: http://tosdr.org/#seenthis
+[SoundClou]: http://tosdr.org/#soundcloud
