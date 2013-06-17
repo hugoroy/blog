@@ -194,7 +194,7 @@ copyright license like this:
 > non-exclusive, royalty-free and fully paid basis.
 > [Source](https://groups.google.com/d/topic/tosdr/_gI8wQ3PZ2M/discussion)
 
-## Which services let you keep the most rights?
+## Which terms of service are fair?
 
 Do not get fooled. Some businesses *do* get broad rights on your
 published content when you “accept” their terms of service. Your
