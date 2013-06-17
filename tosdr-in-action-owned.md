@@ -27,7 +27,7 @@ The basic principle is that once a person has created or invested
 in a work, usually with a minimum of creativity, this person is
 automatically considered the “author” or the copyright holder of
 that published work. There are differences around the world, but
-we can say it's a basic principle under the Berne convention that
+we can say it's a basic principle under the Berne convention, an international agreement that
 governs copyright and author's rights laws worldwide.
 
 Such laws bear various justifications: allowing to reward creators
@@ -59,14 +59,14 @@ not contributed to its creation!
    **almost-unlimited**, licenses to your content.
  * True, these services do not “sell” your content. What they do 
    is *transfer* the license you grant them, or they grant
-   *sublicenses* themselves to third-parties. That mean they can
+   *sublicenses* themselves to third-parties. That means they can
    give rights on your content to other businesses, without asking
    you.
  * True, users have “agreed” to that. But we know that the current
    agreement to terms of service is [meaningless][ep1], and
    moreover, for many services (Twitter, Facebook, Instagram,
-   Twitpic, and etc.), the current copyright license was made in
-   changes to the terms.
+   Twitpic, and etc.), the current copyright license was created when
+   the terms were changed.
 
 [Twitter][] can change the terms at any
 time when they see fit; they can choose to give notification, in
@@ -157,11 +157,11 @@ are “boilerplate” (implying they're everywhere), and that they're
 really necessary for them to provide you with the features of the
 service.
 
-But this is not true. First, these copyright terms are far from
-standard. Indeed, even between similar services, there are huge
-differences, as you can see here, there is a wide variety of
-copyright licenses that we have
-[mapped](http://tosdr.org/topics.html#copyright-scope).
+But this is not true. First, these copyright licenses are far from
+standard because there are some vast differences even between similar services.
+You can see that there are a wide variety of licenses with 
+huge differences that we have
+[scrutinized](http://tosdr.org/topics.html#copyright-scope).
 
 For instance, the copyright license you grant to [YouTube][] bears
 no explicit limitation, whereas [Vimeo][]'s copyright license is
@@ -177,11 +177,11 @@ significant enough, you can also compare Twitter's current
 copyright license with the copyright license they had [before
 2009](https://twitter.com/tos/previous).
 
-If it were really necessary for these services to get such broad
+Secondly, if it were really necessary for these services to have such broad
 copyright licenses, I still see no clear reason why they would ask
 for the possibility to *transfer* or to *sublicense* them. 
 
-Besides, if it were a matter of necessity, then services could
+And even if it was a matter of necessity, services could
 just state it clearly and expressly in the copyright licenses. For
 instance, [SoundCloud][] asks for
 copyright license like this: 
@@ -194,6 +194,8 @@ copyright license like this:
 > non-exclusive, royalty-free and fully paid basis.
 > [Source](https://groups.google.com/d/topic/tosdr/_gI8wQ3PZ2M/discussion)
 
+## Which services let you keep the most rights?
+
 Do not get fooled. Some businesses *do* get broad rights on your
 published content when you “accept” their terms of service. Your
 content is valuable, you should not blindly accept copyright
@@ -203,7 +205,7 @@ Here at ToS;DR, we *systematically* check the copyright licenses
 carried in terms of service to find broad language. If you want to
 avoid giving away your rights, one simple first step can be to
 [download][] our web browser extension and instantly check the
-information regarding copyright licenses of services you use.
+information regarding the copyright licenses of services you use.
 
 [download]: http://tosdr.org/downloads.html
 [Twitter]: http://tosdr.org/#twitter
