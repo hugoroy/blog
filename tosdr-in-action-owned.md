@@ -183,7 +183,7 @@ for the possibility to *transfer* or to *sublicense* them.
 
 And even if it was a matter of necessity, services could
 just state it clearly and expressly in the copyright licenses. For
-instance, [SoundCloud][] asks for
+instance, [SoundCloud][] asks for a
 copyright license like this: 
 
 > **To the extent it is necessary** in order for SoundCloud to
@@ -215,4 +215,4 @@ information regarding the copyright licenses of services you use.
 [Vimeo]: http://tosdr.org/#vimeo
 [Identi.ca]: http://tosdr.org/#identi-ca
 [SeenThis]: http://tosdr.org/#seenthis
-[SoundClou]: http://tosdr.org/#soundcloud
+[SoundCloud]: http://tosdr.org/#soundcloud
