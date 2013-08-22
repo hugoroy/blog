@@ -12,10 +12,10 @@ href="https://github.com/hugoroy/.vim/blob/master/vimrc">~/.vimrc</a>:
 <script src="https://gist.github.com/hugoroy/5822226.js"></script>
 <noscript><pre>
 " make arrows behave like gui text editor
-nnoremap <up> gk
-nnoremap <down> gj
-inoremap <up> <C-O>gk
-inoremap <down> <C-O>gj
-vnoremap <up> gk
-vnoremap <down> gj
+nnoremap &lt;up&gt; gk
+nnoremap &lt;down&gt; gj
+inoremap &lt;up&gt; &lt;C-O&gt;gk
+inoremap &lt;down&gt; &lt;C-O&gt;gj
+vnoremap &lt;up&gt; gk
+vnoremap &lt;down&gt; gj
 </pre></noscript>
