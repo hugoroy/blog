@@ -1,4 +1,4 @@
-% ToS;DR in Action: “What is yours stays yours”, ORLY?  
+% ToS;DR in Action: “What is yours stays yours”, ORLY? 
 % Hugo Roy
 % Mon Jun 17 11:20:00 +0200 2013
 
