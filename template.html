@@ -42,31 +42,34 @@ $if(date-meta)$
 $endif$
         <title>$if(title-prefix)$$title-prefix$ - $endif$$if(pagetitle)$$pagetitle$$endif$</title>
     </head>
-    <body class="blog $if(lang)$ lang-$lang$$endif$" data-spy="scroll" data-target="#menu" data-offset="230">
+    <body class="blog hentry $if(lang)$ lang-$lang$$endif$" data-spy="scroll" data-target="#menu" data-offset="230">
         <header id="top">
             <a rel="home" class="link-home" href="../">
                 <img id="ma-tete" alt="Hugo Roy" title="Hugo Roy" src="../favatar.png" />
             </a>
 $if(title)$
-<p class="title p-name"><a class="u-url u-uid" href="#">$title$</a></p>
+<p><span class="title p-name"><a class="u-url" href="#">$title$</a></span>
 $for(author)$
-<p class="author p-author hcard">$author$</p>
+<span class="author p-author hcard">$author$</span>
 $endfor$
 $if(date)$
-<p class="date"><time class="dt-published">$date$</time> <a href="../index.html#$date$" title="Blog index">&#8635;</a></p>
+<span class="date"><time class="dt-published">$date$</time> <a href="../index.html#$date$" title="Blog index">&#8635;</a></span>
 $endif$
+</p>
 $endif$
         </header>
-        <article role="main" class="hentry">
-$for(include-before)$
-$include-before$
-$endfor$
 $if(toc)$
+<aside id="menu" role="menu">
 <nav id="$idprefix$TOC">
 $toc$
 </nav>
+</aside>
 $endif$
-<section class="e-content">
+        <article role="main" class="e-content">
+$for(include-before)$
+$include-before$
+$endfor$
+<section>
 $body$
 </section>
 $for(include-after)$

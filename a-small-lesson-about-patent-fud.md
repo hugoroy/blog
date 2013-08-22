@@ -1,4 +1,4 @@
-% A (small) lesson about patent FUD.  
+% A (small) lesson about patent FUD
 % Hugo Roy
 % 2013-04-16
 
@@ -68,7 +68,7 @@ This is certainly not how the web was envisioned. The web was
 envisioned with freedom at its core. Just like Tim Berners-Lee
 didn't have to ask anybody's permission to [make the Web work 22
 years ago](http://blogs.fsfe.org/hugo/2010/12/the-web-is-20/
-"The Web turned 20 in 2010")[¹](#fn), nobody should have to ask
+"The Web turned 20 in 2010")[^1], nobody should have to ask
 anyone's permission to publish something on the web. 
 
 ## Why HTML5 \<video\> is still a failure
@@ -108,7 +108,7 @@ These are some of the steps:
 
 
 2. Spread FUD everywhere that Free Software implementations and
-technological alternatives are violating patents.[²](#fn)
+technological alternatives are violating patents.[^2]
 
     (Of course, hope that nobody sees how hypocrite you are,
     because the patent risks come from your own patents and from
@@ -157,17 +157,12 @@ other web browsers?
 We all need each other here. And I think it's time to bring some
 political weight to the HTML5 process to counterbalance this.
 
-* * *
 
-<a id="fn"> </a>
-
-1.  Actually, TBL did have to ask someone's permission: his
+[^1]: Actually, TBL did have to ask someone's permission: his
     employer, CERN. But it's totally unrelated ;-)
-    [↩](#ref-cern-pd)
 
-2.  Apple seems [particularly good at this](http://my.opera.com/haavard/blog/2011/12/09/apple-w3c 
+[^2]: Apple seems [particularly good at this](http://my.opera.com/haavard/blog/2011/12/09/apple-w3c 
     "Apple using patents to undermine open standards again")
-    [↩](#ref-apple-fud)
 
 
 * * *
