@@ -10,3 +10,12 @@ as a replacement for k and j. Just add in your <a
 href="https://github.com/hugoroy/.vim/blob/master/vimrc">~/.vimrc</a>:
 
 <script src="https://gist.github.com/hugoroy/5822226.js"></script>
+<noscript><pre>
+" make arrows behave like gui text editor
+nnoremap <up> gk
+nnoremap <down> gj
+inoremap <up> <C-O>gk
+inoremap <down> <C-O>gj
+vnoremap <up> gk
+vnoremap <down> gj
+</pre></noscript>
