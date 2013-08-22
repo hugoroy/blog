@@ -15,7 +15,7 @@ Microsoft](http://windowspbx.blogspot.fr/2013/05/hangouts-wont-hangout-with-othe
 recently enabled its users to communicate to the outside world through
 XMPP. Now, Google is “replacing” Google Talk with Google+ Hangouts which
 will [no longer support
-XMPP](https://developers.google.com/talk/)[¹](#fn-google-talk-discontinued):
+XMPP](https://developers.google.com/talk/)[^fn-google-talk-discontinued]:
 
 > Note: We announced a new communications product, Hangouts, in May
 > 2013. Hangouts will replace Google Talk and does not support XMPP.
@@ -59,13 +59,11 @@ will be able to get their chat contact list out of Google Talk, with a
 way to import them into [XMPP providers](http://xmpp.net) which are
 federated.  
 
-* * *
 
-<a id="fn-google-talk-discontinued"> </a>
 
-1.  it remains unclear whether XMPP support is entirely gone for
-    xmpp-client-to-server according to
-    [Ars](http://arstechnica.com/information-technology/2013/05/hands-on-with-hangouts-googles-new-text-and-video-chat-architecture/)[↩](#ref-xmpp-support)
+[^fn-google-talk-discontinued]: it remains unclear whether XMPP support is entirely gone for
+xmpp-client-to-server according to
+[Ars](http://arstechnica.com/information-technology/2013/05/hands-on-with-hangouts-googles-new-text-and-video-chat-architecture/)
 
 * * *
 

@@ -1,6 +1,6 @@
 % ToS;DR in Action: “I have read and agree to the terms”
 % Hugo Roy
-% Mon Jun 10 16:53:00 +0200 2013
+% 2013-06-10
 
 # ToS;DR in Action
 
@@ -37,6 +37,7 @@ two obvious reasons:
  * the terms of service and privacy policies are *too long* and
    often do not provide shorter versions, nor do they provide *plain-English*
    versions either;
+
  * the average user signs up to lots and lots of online services,
    sometimes agreeing to multiple documents or services at once
    because of [third parties][] that can be involved.
@@ -58,6 +59,7 @@ Second, these two problems are multiplied by the facts that:
  * terms of service and privacy policies change *all the time* and
    it's very, very hard to keep track of all of them (although
    we're trying really hard to solve this by building [ToSBack][])
+
  * some services, including major ones, do not even
    commit to a legal obligation of notifying their users of such
    changes.
@@ -99,16 +101,19 @@ Before answering these questions, we need to stop for a minute.
    to different conclusions regarding these practices, especially
    about whether changing terms without notifying users is
    acceptable or not.
+
  * Just because you live in a society that is usually more
    protective about your rights, it does not mean you're safe, because
    a lot of the terms of service have [choice of law
    clauses][choice-law]
+
  * Even when such practices would be deemed illegal, it does not
    mean that they are not doing any harm. Quite on the contrary,
    if you've got to go see a judge (i.e., taking the burden of
    litigation on you in time and/or money) it probably means that
    harm's been done already. Good contracts do not provoke
    litigation; they ease private relationships.
+
  * And sometimes, even when companies have been fined for 
    practices that have been considered illegal,
    they have still succeeded in profiting from their actions.
@@ -173,9 +178,11 @@ Oh, I forgot to answer the question. No, some of these
 terms are actually illegal:
 
  - [WhatsApp breached data privacy laws by storing non-user contact details](http://www.wired.co.uk/news/archive/2013-01/29/whatsapp-privacy)
+
  - [German Court rules Facebook original Friendfinder and various
     terms and conditions to be illegal (Landgericht Berlin, Urteil
     vom 6. März 2012, Az. 16 O 551/10)](http://www.onlinelaw.de/de/aktuelles/it_news.php?we_objectID=324&pid=0)
+
  - [Apple’s Customer Data-Privacy Rules Struck Down by German
    Court](http://www.bloomberg.com/news/2013-05-07/apple-s-customer-data-privacy-rules-struck-down-by-german-court.html)
 

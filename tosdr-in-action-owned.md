@@ -1,6 +1,6 @@
 % ToS;DR in Action: “What is yours stays yours”, ORLY? 
 % Hugo Roy
-% Mon Jun 17 11:20:00 +0200 2013
+% 2013-06-17
 
 # “What is yours stays yours”: Oh, really?
 
@@ -57,12 +57,14 @@ not contributed to its creation!
    content. They do not ask for a transfer of copyright ownership,
    but they mainly ask you to grant them **broad**, sometimes
    **almost-unlimited**, licenses to your content.
+
  * True, these services do not “sell” your content. What they do 
    is *transfer* the license you grant them, or they grant
    *sublicenses* themselves to third-parties. That means they can
    give rights on your content to other businesses, without asking
    you.
- * True, users have “agreed” to that. But we know that the current
+
+* True, users have “agreed” to that. But we know that the current
    agreement to terms of service is [meaningless][ep1], and
    moreover, for many services (Twitter, Facebook, Instagram,
    Twitpic, and etc.), the current copyright license was created when
