@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html$if(lang)$ lang="$lang$"$endif$ class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="generator" content="pandoc">
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+$if(quotes)$
+  <style type="text/css">
+    q { quotes: "“" "”" "‘" "’"; }
+  </style>
+$endif$
+$if(highlighting-css)$
+  <style type="text/css">
+$highlighting-css$
+  </style>
+$endif$
+$for(css)$
+  <link rel="stylesheet" href="$css$">
+$endfor$
+$if(math)$
+  $math$
+$endif$
+$for(header-includes)$
+  $header-includes$
+$endfor$
+        <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="../css/style.css" rel="stylesheet">
+        <link rel="shortcut icon" href="../favicon.png">
+        <script type="text/javascript" src="../js/modernizr.custom.30122.js"></script>
+        <script type="text/javascript" src="../js/jquery.js"></script>
+        <script type="text/javascript" src="../js/scrollspy.js"></script>
+        <script type="text/javascript" src="../js/collapse.js"></script>
+        <!--metadata-->
+$for(author-meta)$
+        <meta name="author" content="$author-meta$">
+$endfor$
+$if(date-meta)$
+        <meta name="dcterms.date" content="$date-meta$">
+$endif$
+        <title>$if(title-prefix)$$title-prefix$ - $endif$$if(pagetitle)$$pagetitle$$endif$</title>
+    </head>
+    <body class="blog $if(lang)$ lang-$lang$$endif$" data-spy="scroll" data-target="#menu" data-offset="230">
+        <header id="top">
+            <a rel="home" class="link-home" href="../">
+                <img id="ma-tete" alt="Hugo Roy" title="Hugo Roy" src="../favatar.png" />
+            </a>
+$if(title)$
+<p class="title p-name"><a class="u-url u-uid" href="#">$title$</a></p>
+$for(author)$
+<p class="author p-author hcard">$author$</p>
+$endfor$
+$if(date)$
+<p class="date"><time class="dt-published">$date$</time> <a href="../index.html#$date$" title="Blog index">&#8635;</a></p>
+$endif$
+$endif$
+        </header>
+        <article role="main" class="hentry">
+$for(include-before)$
+$include-before$
+$endfor$
+$if(toc)$
+<nav id="$idprefix$TOC">
+$toc$
+</nav>
+$endif$
+<section class="e-content">
+$body$
+</section>
+$for(include-after)$
+$include-after$
+$endfor$
+        </article>
+        <aside>
+            <form action="https://duckduckgo.com/" name="x" id="search" class="input-group">
+                <input name="sites" value="hugoroy.eu" type="hidden">
+                <input name="q" type="text" placeholder="Rechercher" class="form-control">
+                <span class="input-group-btn" id="duckgoforit" onclick="document.x.submit()"><a class="btn btn-default" href="#search-with-duckduckgo-js"><span class="glyphicon glyphicon-search"></span></a></span>
+            </form>
+            <ul class="nav"><li><a href="#top">↑ Retour</a></li></ul>
+        </aside>
+        <footer id="bottom">
+        <p id="legal" role="contentinfo">Sauf mention contraire, le contenu de
+        cette page est publié par <a href="/" rel="author">Hugo Roy</a> sous une licence <a
+            rel="license"
+            href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons
+            autorisant le partage et la modification sous conditions</a> ou, au
+        choix, <a href="//creativecommons.org/licenses/by-sa/3.0/fr/">la
+            version française</a> ou <a href="http://artlibre.org">la licence
+            Art Libre 1.3</a>.</p>
+        <p><a href="http://open.blogs.nytimes.com/2011/01/11/emphasis-update-and-source/?_r=0#p[WdeFte]%2Ch[WdeFte%2C3]" target="_blank">Astuce</a>&nbsp;: Appuyer sur la touche Majuscule deux fois (nécessite JavaScript).</p>
+        </footer>
+        <script type="text/javascript" src="../js/emphasis.js"></script>
+    </body>
+</html>
