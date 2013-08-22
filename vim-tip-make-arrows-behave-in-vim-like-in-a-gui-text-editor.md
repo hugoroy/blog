@@ -18,4 +18,6 @@ inoremap &lt;up&gt; &lt;C-O&gt;gk
 inoremap &lt;down&gt; &lt;C-O&gt;gj
 vnoremap &lt;up&gt; gk
 vnoremap &lt;down&gt; gj
-</pre></noscript>
+</pre><a
+href="https://gist.github.com/hugoroy/5822226/raw/4e947e54558ad416cd9abc3290ee651d07a80a12/arrows.vimrc">most
+updated version on github</a></noscript>
